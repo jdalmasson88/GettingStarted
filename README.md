@@ -323,7 +323,7 @@ To see all the remotes that you have access to, type 'git remote -v'.
 [Back to the tippety-top.](#top)
 
 ----------------------------------------------------------------------
-#### <a name="conflicts"></a>I git pulled and now I have a konflict. What do I do?
+#### <a name="konflicts"></a>I git pulled and now I have a konflict. What do I do?
 
 Fix it. The error messinge tells you which files contain the konflict.
 Open them in an editor and search for the string
